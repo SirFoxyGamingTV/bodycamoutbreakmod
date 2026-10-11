@@ -1,0 +1,13 @@
+# Build output, downloads, logs and local tools (never commit game or loader files)
+/artifacts/
+/tools/
+/.tools/
+/vendor/
+/Unreal/
+*.log
+*.dmp
+*.zip
+__pycache__/
+# Runtime files the mod writes next to its Scripts folder
+mod/BodycamOutbreak/*.txt
+mod/BodycamOutbreak/*.log

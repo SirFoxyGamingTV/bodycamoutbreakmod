@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "appId": "2406770",
+  "steamRoot": "C:\\Program Files (x86)\\Steam",
+  "installDirectory": "Bodycam",
+  "buildId": "25505592",
+  "executableRelativePath": "Bodycam\\Binaries\\Win64\\Bodycam-Win64-Shipping.exe",
+  "executableSha256": "2792EA9A5E062BFC69883F496E9517D2F1308CA573DADE7F8DB108F722DB127C",
+  "engineVersion": "5.5",
+  "ue4ssVersion": "3.0.1-1164-g5e627997",
+  "loaderVerified": true,
+  "gameApiVerified": false,
+  "gameplayVerified": false,
+  "testMode": "private-online",
+  "testSessionVerified": true
+}
